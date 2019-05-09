@@ -8,7 +8,7 @@ end
 arr  
 end
 
-
+my_each(arr) {|x| puts x}
 
 
   
