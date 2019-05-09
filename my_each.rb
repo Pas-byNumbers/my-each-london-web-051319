@@ -8,6 +8,8 @@ end
 arr  
 end
 
+my_each(arr) { |i| puts i }
+
 
   
   
