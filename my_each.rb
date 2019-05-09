@@ -1,9 +1,9 @@
 def my_each(arr)
   # code here
-  n = arr.size
-  while n > 0
+  count = arr.size
+  while count > 0
   yield arr[i]
-  n -= 1
+  count -= 1
 end
 arr  
 end
