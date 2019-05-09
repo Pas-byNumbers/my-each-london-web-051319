@@ -3,3 +3,5 @@ def my_each(arr)
   while arr.size > 0
   
 end
+
+my_each 
