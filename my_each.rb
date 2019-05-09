@@ -1,3 +1,5 @@
-def my_each # put argument(s) here
+def my_each(arr)
   # code here
+  while arr.size > 0
+  
 end
